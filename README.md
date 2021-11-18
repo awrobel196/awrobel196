@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awrobel196&count_private=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrobel196&layout=compact)
 <!--
 **awrobel196/awrobel196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
