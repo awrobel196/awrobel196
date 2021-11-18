@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awrobel196&count_private=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=awrobel196&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awrobel196&layout=compact)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=awrobel196)
 <!--
 **awrobel196/awrobel196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
